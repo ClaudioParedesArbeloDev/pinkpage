@@ -1,0 +1,22 @@
+{   
+    "idioma": {
+        "seleccionIdioma": "select your language"
+    },
+    "login": {
+        "inicioSesion": "Sign In",
+        "usuario": "User",
+        "placeholderUser": "enter your user",
+        "password": "Password",
+        "placeholderPassword": "enter your password",
+        "register": "Don't have an account?",
+        "signUp": "Sign Up"
+    },
+    "footer": {
+        "faq": "FAQ",
+        "terms": "Terms of Service",
+        "policies": "Privacy Policies"
+    }
+
+
+    
+}

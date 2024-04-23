@@ -1,0 +1,13 @@
+:root {
+    --body_background: #ecece9;
+    --text_color: #041b2d;
+    --body_color: #7b3d83;
+    --link_color: #de72da;
+  }
+  
+  [data-theme="dark"] {
+    --body_background: #041b2d;
+    --text_color: #ff9cda;
+    --body_color: #ea4492;
+    --link_color: #1c5472;
+  } 

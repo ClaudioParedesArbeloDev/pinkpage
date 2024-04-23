@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Gochi+Hand&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Ojuju:wght@200..800&display=swap');
+
+/* font-family: "Ojuju", sans-serif;
+font-family: "Allura", cursive;
+font-family: "Gochi Hand", cursive;
+font-family: "Josefin Sans", sans-serif; */
+
+.wrapperFooter{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Josefin Sans", sans-serif; 
+    border-top: 1px solid var(--body_color);
+    padding-top: 30px;
+}
+.socialNetworks{
+    color: var(--text_color);
+    font-size: 2.4em;
+    cursor: pointer;
+    i{
+        margin: 10px;
+    }
+    i:hover{
+        color: var(--body_color);
+    }
+}
+
+.copyrightFooter{
+    display: flex;
+    align-items: center;
+    p{
+        color: var(--text_color);
+    }
+    
+}
+
+.linkFooter{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    a{
+        color: var(--text_color);
+        text-decoration: none;
+    }
+    a:hover{
+        color: var(--body_color);
+    }
+}
